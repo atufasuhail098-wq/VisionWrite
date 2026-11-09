@@ -53,7 +53,7 @@ VisionWrite/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/VisionWrite.git
+git clone https://github.com/atufasuhail098-wq/VisionWrite.git
 ```
 
 2. Open the project folder:
